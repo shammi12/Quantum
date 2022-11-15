@@ -1,2 +1,2 @@
 This is 2nd unit of the Quantum.
-So we'll learn the networking of computer.
+So we'll learn the networking of computer except the file transfer protocal.
